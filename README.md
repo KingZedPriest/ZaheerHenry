@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ZaheerHenry
-- 👀 I’m interested in Website Development, Frontend for now
-- 🌱 I’m currently learning Backend Development
+- 👋 Hi, I’m @Charles Chukwuemeka.
+- 👀 I’m interested in Website Development, Frontend for now.
+- 🌱 I’m currently learning Backend Development.
 - 💞️ I’m looking to collaborate on Any Job or task that has anything to do with Website Development.
 - 📫 How to reach me Charleschukwuemeka47@gmail.com is my Mail, text me at anytime, I will answer.
 
